@@ -13,17 +13,17 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["2348068620970","2348068620970"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["2348068620970","2348068620970"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["2348068620970"];
-global.OwnerName = "~𝐺𝛪𝛭 BØT";
-global.BotName = "~𝐺𝛪𝛭 BØT";
-global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: ~𝐺𝛪𝛭 BØT";                               //Do not change.
+global.Owner = ["2349129145338","2349129145338"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["2349129145338","2349129145338"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["2349129145338"];
+global.OwnerName = "OLA TV";
+global.BotName = "OLA TV";
+global.packname = "OLA TV";                             //Do not change.
+global.author = "By: OLA TV";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
 
